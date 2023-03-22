@@ -11,11 +11,8 @@ For this project I used the MNIST dataset. It is freely available on the Interne
 4. numpy
 5. Jupyter-Notebook
 
-## Training CNN model
-
-
 ## Digit recognition using OpenCV
-<b>untitled.ipynb</b> - This is a python notebook for recognising handwritten digit in images using OpenCV .This file is using trained CNN model.
+<b>untitled.ipynb</b> - This is a python notebook for recognising handwritten digit images using OpenCV. This file is using trained using CNN model.
 
 ## Model Architecture
 
